@@ -5,7 +5,7 @@
     <title>Devops yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy Registration Form</title>
     </head>
     <body>
-    <h1>Guru Regisffffffffffffffffffffffffffffffffffffffffffffffffter Form</h1>
+    <h1>Guru Form</h1>
     <form action="guru_register" method="post">
     			<table style="with: 50%">
     				<tr>
