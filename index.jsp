@@ -2,7 +2,7 @@
     <html>
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>Devops yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy Registration Form</title>
+    <title>Devops  Registration Form</title>
     </head>
     <body>
     <h1>Guru Form</h1>
