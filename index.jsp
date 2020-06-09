@@ -5,7 +5,7 @@
     <title>Devops  Registration Form</title>
     </head>
     <body>
-    <h1>vova and omer Form</h1>
+    <h1>devops project Form</h1>
     <form action="guru_register" method="post">
     			<table style="with: 50%">
     				<tr>
